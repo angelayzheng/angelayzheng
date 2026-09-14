@@ -9,6 +9,7 @@
 
 ## project highlights 🚀
 
+- 🫀 [**Find Your Daughter**](https://github.com/angelayzheng/FindYourDaughter) | **Battle of the Schools 2026** (`Python` `Streamlit` `scikit-image` `SimpleITK` `VTK`) — detecting daughter arteries from aorta CT scans
 - 🌿 [**SwipeForChange**](https://github.com/zeukyr/SwipeForChange) | **Hack the 6ix 2026** (`React` `Next.js` `TypeScript` `Tailwind CSS`) — swipe right on local environmental petitions & take immediate action
 - 📚 [**UofT Explorer**](https://github.com/andrei-akopian/UofTExplorer) (`Python` `Flask` `React` `TypeScript` `Tailwind CSS`) — explore UofT courses, programs, departments, and their requisite connections
 - ⛸️ [**FigureS**](https://github.com/angelayzheng/figures) (`React` `TypeScript` `Tailwind CSS`) — drawing app for figure skating clusters and ice dance patterns
