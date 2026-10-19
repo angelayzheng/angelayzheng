@@ -8,17 +8,14 @@
 
 ## ➾ current experience 🌷
 
-- 📝 **[PythonTA](https://github.com/pyta-uoft) Software Developer** (`Python`) — educational linting suite & VS Code extension used by students and faculty in first-year UofT CS courses
+- 📝 **[PythonTA](https://github.com/pyta-uoft) Software Developer** (`Python`) — linting suite & VS Code extension used by students and faculty at UofT
 - 🛠️ **[UTMIST](https://github.com/UTMIST) Infrastructure Developer** (`Python` `FastAPI` `Next.js`) — [Misty](https://github.com/UTMIST/Misty) (AI internal operations platform) & [UTMIST website](https://github.com/UTMIST/UTMIST)
-- 💜 **[WISE Conference](https://github.com/WISE-UofT) Operations Director** (`Python` `Astro` `Tailwind CSS`) — internal ticket verification tools, [WISE National Conference website](https://conference.wise.skule.ca/), and planning event logistics
 
-## ➾ project highlights 🚀
+## ➾ project highlights 🌠
 
-- 🫀 [**Find Your Daughter**](https://github.com/angelayzheng/FindYourDaughter) | **Battle of the Schools 2026** (`Python` `Streamlit` `scikit-image` `SimpleITK` `VTK`) — detecting daughter arteries from aorta CT scans
-- 🌿 [**SwipeForChange**](https://github.com/zeukyr/SwipeForChange) | **Hack the 6ix 2026** (`React` `Next.js` `TypeScript` `Tailwind CSS`) — swipe right on local environmental petitions & take immediate action
+- 🫀 [**Find Your Daughter**](https://github.com/angelayzheng/FindYourDaughter) | **Won at Battle of the Schools 2026** (`Python` `Streamlit` `scikit-image` `SimpleITK` `VTK`) — detecting daughter arteries from aorta CT scans
+- 🌿 [**SwipeForChange**](https://github.com/zeukyr/SwipeForChange) | **Won at Hack the 6ix 2026** (`React` `Next.js` `TypeScript` `Tailwind CSS`) — swipe right on local environmental petitions & take immediate action
 - 📚 [**UofT Explorer**](https://github.com/andrei-akopian/UofTExplorer) (`Python` `Flask` `React` `TypeScript` `Tailwind CSS`) — explore UofT courses, programs, departments, and their requisite connections
-- ⛸️ [**FigureS**](https://github.com/angelayzheng/figures) (`React` `TypeScript` `Tailwind CSS`) — drawing app for figure skating clusters and ice dance patterns
-- 🗺️ [**Geohashing**](https://github.com/angelayzheng/geohashing) (`Python`) — scripts to calculate daily geohash coordinates & send email notifications
 
 ## ➾ contact 💌
 
