@@ -8,7 +8,7 @@
 
 ## ➾ current experience 🌷
 
-- 📝 **[PythonTA](https://github.com/pyta-uoft) Software Developer** (`Python`) — linting suite & VS Code extension used by students and faculty at UofT
+- 📝 **[PythonTA](https://github.com/pyta-uoft/pyta) Software Developer** (`Python`) — linting suite & VS Code extension used by 2500+ students and faculty at UofT
 - 🛠️ **[UTMIST](https://github.com/UTMIST) Infrastructure Developer** (`Python` `FastAPI` `Next.js`) — [Misty](https://github.com/UTMIST/Misty) (AI internal operations platform) & [UTMIST website](https://github.com/UTMIST/UTMIST)
 
 ## ➾ project highlights 🌠
